@@ -1,0 +1,9 @@
+D:\Users\nvarikollu\IdeaProjects\twitter_connector\src\main\java\com\altimetrik\twitter\model\Tweet.java
+D:\Users\nvarikollu\IdeaProjects\twitter_connector\src\main\java\com\altimetrik\twitter\producer\callback\BasicCallback.java
+D:\Users\nvarikollu\IdeaProjects\twitter_connector\src\main\java\com\altimetrik\twitter\producer\TwitterKafkaProducer.java
+D:\Users\nvarikollu\IdeaProjects\twitter_connector\src\main\java\com\altimetrik\twitter\config\TwitterConfiguration.java
+D:\Users\nvarikollu\IdeaProjects\twitter_connector\src\main\java\com\altimetrik\twitter\config\Config.java
+D:\Users\nvarikollu\IdeaProjects\twitter_connector\src\main\java\com\altimetrik\twitter\config\KafkaConfiguration.java
+D:\Users\nvarikollu\IdeaProjects\twitter_connector\src\main\java\com\altimetrik\twitter\model\User.java
+D:\Users\nvarikollu\IdeaProjects\twitter_connector\src\main\java\rnd\Twitter_Consumer.java
+D:\Users\nvarikollu\IdeaProjects\twitter_connector\src\main\java\com\altimetrik\twitter\App.java
